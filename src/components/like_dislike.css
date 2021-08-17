@@ -1,0 +1,37 @@
+.container{
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+    width: 450px;
+    height: 350px;
+    margin: 0px auto;
+    border-radius: 10px;
+    background-color: #1b1b1b;
+}
+button{
+    width: 150px;
+    height: 80px;
+    font-size: 50px;
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+h1{
+    
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2{
+    margin-top: 30px;
+    text-align: center;
+    padding: 20px;
+    background-color: #ebc55e;
+    border-radius: 10px;
+
+}
+
+button:hover{
+    cursor: grab;
+    color: #ebc55e;
+}
